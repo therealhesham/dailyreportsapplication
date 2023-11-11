@@ -22,7 +22,11 @@ console.log(post.data)
 
 
 return(
+<View>
 
+
+    
+</View>
 
 
 
